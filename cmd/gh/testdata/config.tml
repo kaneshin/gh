@@ -1,0 +1,9 @@
+[gh]
+owner = "kaneshin"
+repo  = "gh"
+access_token = "GITHUB_ACCESS_TOKEN"
+
+[test]
+owner = "kaneshin"
+repo  = "test"
+access_token = "GITHUB_ACCESS_TOKEN"
